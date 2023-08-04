@@ -5,7 +5,7 @@ Por exemplo, se o valor de entrada for 3, as combinações possíveis com 3 pare
 ()()(), ()(()), (())(), ((())), e (()()). 
 Existem 5 combinações no total quando o valor de entrada é 3, então o programa deve retornar 5.
 */
-
+import java.io.*;
 
 public class BracketCombinations {
     private int num;
