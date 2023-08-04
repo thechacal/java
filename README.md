@@ -1,1 +1,3 @@
-# java
+# Java
+
+Some codes in Java
